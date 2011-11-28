@@ -18,6 +18,7 @@ end
 
 gem "rspec-rails", ">= 2.7.0", :group => [:development, :test]
 gem "webrat", ">= 0.7.3", :group => [:test]
+gem "spork", ">= 0.9.0.rc9", :group => [:test]
 
 
 gem 'jquery-rails'
